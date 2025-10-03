@@ -1,5 +1,6 @@
 # AI Tic-Tac-Toe
-From Hofstra CSC270 
+From Hofstra CSC270
+The main Python file is `TTT.py`
 
 ## Min-max player class
 ![MinMax Stats](./minMaxStats.png)
